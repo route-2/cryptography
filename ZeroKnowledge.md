@@ -8,4 +8,8 @@
 
 [snarkjs](https://github.com/iden3/snarkjs)
 
+[Plonk2](https://github.com/mir-protocol/plonky2)
 
+[Stark Paper](https://eprint.iacr.org/2018/046.pdf)
+
+[Maths Behind groth16](https://www.zeroknowledgeblog.com/index.php/groth16)
