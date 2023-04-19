@@ -7,7 +7,7 @@
 
 > The current list of topics covered in this repository includes:
 
-* Symmetric Key Cryptography: Basic concepts, properties, and examples of symmetric key algorithms such as Caesar cipher, Data Encryption Standard (DES), and Advanced Encryption Standard (AES).
+- Symmetric Key Cryptography: Basic concepts, properties, and examples of symmetric key algorithms such as Caesar cipher, Data Encryption Standard (DES), and Advanced Encryption Standard (AES).
 * Public Key Cryptography: Introduction to asymmetric cryptography, including key pairs generation, encryption, and decryption using public and private keys. Examples of common public key algorithms like Rivest-Shamir-Adleman (RSA), Digital Signature Algorithm (DSA), and Elliptic Curve Cryptography (ECC).
 * Interactive and Non-Interactive Proofs: Understanding of interactive and non-interactive zero knowledge proofs, their properties, and use cases.
 * Zero Knowledge Proofs: Introduction to zero knowledge proofs, their applications in authentication, privacy, and secure communication.
