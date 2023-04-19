@@ -1,6 +1,6 @@
 # 🔒 🔑 CRYPTOGRAPHY
 
-> This repository is a collection of cryptography algorithms, covering various aspects of modern cryptography. It includes both symmetric key cryptography and public key cryptography, as well as other related topics such as interactive and non-interactive proofs, zero knowledge proofs, Shamir secret sharing schemes, and multi-party computation.
+ This repository is a collection of cryptography algorithms, covering various aspects of modern cryptography. It includes both symmetric key cryptography and public key cryptography, as well as other related topics such as interactive and non-interactive proofs, zero knowledge proofs, Shamir secret sharing schemes, and multi-party computation.
 #### Resources
 > In this repository, you will find implementations/articles of popular cryptography algorithms, along with documentation and examples to help you understand how they work. The repository is open to contributions, so feel free to add additional resources or improvements through pull requests.
 
