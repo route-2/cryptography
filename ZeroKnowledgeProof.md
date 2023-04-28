@@ -29,3 +29,7 @@
 [Intro to BLS12-381 curve](https://hackmd.io/@benjaminion/bls12-381#BLS12-381-For-The-Rest-Of-Us)
 
 [zk-SNARKs Setup Phase](https://medium.com/qed-it/diving-into-the-snarks-setup-phase-b7660242a0d7)
+
+[KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
+
+
