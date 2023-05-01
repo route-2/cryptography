@@ -1,4 +1,4 @@
-[Zk snark & Zk stark](https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained)
+[Zk snark & Zk stark(Beginner)](https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained)
 
 [homomorphic hiding](http://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol/homomorphic-hiding)
 
@@ -28,8 +28,10 @@
 
 [Intro to BLS12-381 curve](https://hackmd.io/@benjaminion/bls12-381#BLS12-381-For-The-Rest-Of-Us)
 
-[zk-SNARKs Setup Phase](https://medium.com/qed-it/diving-into-the-snarks-setup-phase-b7660242a0d7)
+[zk-SNARKs Setup Phase(Intermediate)](https://medium.com/qed-it/diving-into-the-snarks-setup-phase-b7660242a0d7)
 
 [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
+
+[circuits in circom](https://github.com/iden3/circomlib/tree/master/circuits)
 
 
