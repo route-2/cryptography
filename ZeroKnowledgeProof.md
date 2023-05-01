@@ -1,3 +1,5 @@
+[Zero Knowledge Proofs explained to different age groups (Beginner)](https://www.youtube.com/watch?v=fOGdb1CTu5c)
+
 [Zk snark & Zk stark(Beginner)](https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained)
 
 [homomorphic hiding](http://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol/homomorphic-hiding)
