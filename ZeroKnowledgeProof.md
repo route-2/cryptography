@@ -16,7 +16,7 @@
 
 [History Of ZKP](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
 
-[Maths Behind groth16](https://www.zeroknowledgeblog.com/index.php/groth16)
+[Math Behind groth16](https://www.zeroknowledgeblog.com/index.php/groth16)
 
 [ZK Snark Construction Flow](https://blog.decentriq.com/zk-snarks-primer-part-one/)
 
